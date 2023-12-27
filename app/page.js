@@ -10,6 +10,7 @@ export default function Home() {
         <div className='mx-4'>About</div>
         <div className='mx-4'>Connect</div>
       </div>
+      <div className='bg-orange-200 h-12 w-24 rounded-md m-4'>Explore</div>
     </main>
   )
 }
